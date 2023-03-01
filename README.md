@@ -33,5 +33,4 @@ I'm a Junior Web Dev.
 - PGadmin
 - WSL/Git
 - Rest API
-- 
 # snake-peelerzin
