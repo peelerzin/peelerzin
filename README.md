@@ -22,8 +22,16 @@ I'm a Junior Web Dev.
 - Zustand
 - Node.js
 - HTML
-- CSS Tailwind
+- CSS/Tailwind
 - Javascript
 - Typescript
 - Storybook
+- Axios/Fastify
+- Storybook
+- Prisma
+- postGreSQL
+- PGadmin
+- WSL/Git
+- Rest API
+- 
 # snake-peelerzin
