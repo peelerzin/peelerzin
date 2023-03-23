@@ -30,7 +30,8 @@ I'm a Junior Web Dev.
 - Storybook
 - Prisma
 - postGreSQL
-- PGadmin
 - WSL/Git
 - Rest API
+- Jest
+- Vitest
 # snake-peelerzin
